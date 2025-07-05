@@ -14,7 +14,6 @@ Suppose you're building an Uber-like app that handles millions of users.
 
 
 
-
 He wraps the Dijkstra logic inside a service, uses Strategy and Singleton patterns, and creates modules that can scale and be reused.
 
 ## 2. DSA vs LLD
