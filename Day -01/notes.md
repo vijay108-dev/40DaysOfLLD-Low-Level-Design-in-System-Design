@@ -103,19 +103,3 @@ LLD defines:
 
 * Focus: Class structure and patterns
 * Example: Order class, DeliveryBoy class, NotificationService with Strategy pattern
-
-## Final Summary
-
-| Layer | Focus                   | Example                          |
-| ----- | ----------------------- | -------------------------------- |
-| DSA   | Logic solving           | Dijkstra to assign delivery boy  |
-| HLD   | System architecture     | Redis for caching, services flow |
-| LLD   | Code structure & design | Classes for order, user, service |
-
-### Role-wise Expectation:
-
-| Role      | Required Skills |
-| --------- | --------------- |
-| SDE-1     | DSA + LLD       |
-| SDE-2 / 3 | LLD + HLD       |
-| Architect | HLD             |
